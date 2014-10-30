@@ -1,0 +1,4 @@
+For AnnotateJSRepo:
+Follow the instructions in the README file
+./tools/build will build the project
+make in pkg will minimize and join the javascript files. After that it copies the annotator javascript file to Annotate/libs/js
